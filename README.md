@@ -29,3 +29,6 @@ By identifying at-risk customers early, the company can reach out with special o
 
 ## Course
 MBAN 5560 - Master of Business Analytics, Saint Mary's University
+
+## Live Report
+👉 [Click here to view the full analysis](https://mina-tj.github.io/knn-churn-prediction/A3_student.html)
