@@ -2,3 +2,5 @@ A3_withsolutions.qmd
 A3_withsolutions.html
 A3_student_cache/
 A3_student_files/
+.DS_Store
+.Rhistory
